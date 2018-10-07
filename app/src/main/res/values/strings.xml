@@ -1,0 +1,16 @@
+<!--
+  ~ Created by Evgeny V. Lobach on 03.10.18 20:01
+  ~ Copyright (c) 2018 | www.itstudio.app | All rights reserved.
+  ~ Last modified 03.10.18 19:46
+  -->
+
+<resources>
+    <string name="app_name">Exercise 01 For Checkup</string>
+    <string name="edit_text_hint">Enter Your name</string>
+    <string name="push_me">Push me!</string>
+    <string name="to_second_screen">To second screen</string>
+    <string name="enter_name_message">Enter Name please</string>
+    <string name="content_description_for_image">Content description</string>
+    <string name="search_in_google">Search in Google</string>
+    <string name="title_activity_third">ThirdActivity</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Created by Evgeny V. Lobach on 04.10.18 23:05
+  ~ Copyright (c) 2018 | www.itstudio.app | All rights reserved.
+  ~ Last modified 04.10.18 22:51
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <gradient
+        android:angle="90"
+        android:endColor="@android:color/holo_blue_dark"
+        android:startColor="@color/colorAccent"
+        android:type="linear"
+        android:useLevel="false" />
+</shape>

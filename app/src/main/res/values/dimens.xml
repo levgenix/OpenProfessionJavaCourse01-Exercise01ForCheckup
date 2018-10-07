@@ -1,0 +1,9 @@
+<!--
+  ~ Created by Evgeny V. Lobach on 07.10.18 3:26
+  ~ Copyright (c) 2018 | www.itstudio.app | All rights reserved.
+  ~ Last modified 07.10.18 3:26
+  -->
+
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
